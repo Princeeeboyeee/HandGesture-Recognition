@@ -1,0 +1,46 @@
+body
+{
+  color: lime;
+  background: red;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed lime;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: lime;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 30px;
+  border-radius: 15px;
+  letter-spacing: 15px;
+  background-color: lime;
+}
+#take_image{
+  background-color: crimson;
+  color: chartreuse;
+  font-size: 25px;
+}
+#check_image{
+  background-color:purple;
+  color:yellow;
+  font-size: 35px;
+}
+label{
+  font-size: 35px;
+}
